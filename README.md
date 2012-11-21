@@ -1,0 +1,4 @@
+McMoney
+=======
+
+McMoneyPlugin
